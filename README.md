@@ -10,21 +10,21 @@
 ## Items & tools
 ### Current
 - vim8, tmux
-- MacBook Pro, Terminal (Apple)
+- 💻MacBook Pro, Terminal (Apple)
 - HHKB (Happy Hacking Keyboard; PFU)
-- ORTHIA (Honda)
-- D7100 (Nikon)
+- 🚗ORTHIA (Honda)
+- 📸D7100 (Nikon)
 - Lightroom (Adobe)
 - NH/ANA (All Nippon Airways)
 - HND (Haneda Airport; Tokyo International Airport)
 ### Used to
-- α7000 (Minolta) 
-- X68000/X1 (SHARP)
+- 📸α7000 (Minolta) 
+- 💻X68000/X1 (SHARP)
 - Z80 (Zilog)
 - FreeBSD
 
 ## Favorites
-- Yakitori & Shouchu (焼き鳥と芋焼酎)
+- 🐔Yakitori & 🍶Shouchu (焼き鳥と芋焼酎)
 
 ## My goals
 - Learn Go and Rust.
