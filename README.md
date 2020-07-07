@@ -26,11 +26,11 @@
 ## Favorites
 - 🐔Yakitori & 🍶Shouchu (焼き鳥と芋焼酎)
 
-## My goals
+## Goals
 - Learn Go and Rust.
 - Create favorite websites using Vue.js and so on
 - Taking women portraits and create "[Continuous discontinuity](https://www.lensculture.com/atsushi-ezura)"
 
-## My resumes
+## Resumes
 - [English](https://github.com/zurazurataicho/resume/blob/master/README_en.md)
 - [Japanese](https://github.com/zurazurataicho/resume/blob/master/README.md)
