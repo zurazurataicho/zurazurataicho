@@ -15,8 +15,8 @@
 - 🚗ORTHIA (Honda)
 - 📸D7100 (Nikon)
 - Lightroom (Adobe)
-- NH/ANA (All Nippon Airways)
-- HND (Haneda Airport; Tokyo International Airport)
+- ✈️NH/ANA (All Nippon Airways)
+- ✈️HND (Haneda Airport; Tokyo International Airport)
 ### Used to
 - 📸α7000 (Minolta) 
 - 💻X68000/X1 (SHARP)
