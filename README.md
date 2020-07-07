@@ -1,5 +1,11 @@
 # EZURA, Atsushi @zurazurataicho
-Z80 is my origin. Minolta α7000 brought me photography. Programmer, IT Architect. Love Hiroko Kasahara(笠原弘子) san forever. Finding women portrait models.
+
+## Specification
+- Z80 is my origin.
+- Minolta α7000 brought me photography.
+- Programmer, IT Architect.
+- Love Hiroko Kasahara(笠原弘子) san who is a voice actress forever.
+- Finding women portrait models and taking their portraits around Tokyo area.
 
 ## Items & tools
 ### Current
